@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sid14103088
-- 👀 I’m interested in builing C++ and Java projects
-- 🌱 I’m currently learning go lang for fun
+- 👀 I’m interested in builing C++ and Python projects
 - 💞️ I’m looking to collaborate on projects involving security scheme on message stream.
 - 📫 How to reach me : email me at 14103088siddharth@gmail.com
 
